@@ -9,6 +9,7 @@
 (github "40ants/weblocks-navigation-widget")
 (github "40ants/weblocks-stores")
 (github "40ants/weblocks-lass")
+(github "40ants/weblocks-parenscript")
 (github "40ants/cldomain")
 (github "40ants/cl-bitbar")
 (github "40ants/cl-yandex-metrika")
