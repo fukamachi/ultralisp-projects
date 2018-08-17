@@ -17,3 +17,4 @@
 (github "40ants/cl-link-header")
 (github "40ants/log4cl-json")
 (github "ultralisp/quickdist")
+(github "fukamachi/prove")
